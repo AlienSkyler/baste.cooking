@@ -1,6 +1,6 @@
-# Based Cooking Website
+Based on the based.cooking project, but expunging reactionary language
 
-[https://based.cooking](https://based.cooking)
+
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers, cookies (unless recipes thereof) or javascript.
@@ -22,12 +22,7 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
   should be automatic).
 - File names should be the name of the dish with words separated by hyphens
   (`-`). Not underscores, and definitely not spaces.
-- Recipe must be based, i.e. good traditional and substantial food. Nothing
-  ironic, meme-tier hyper-sugary, meat-substitute, etc.
-- Don't include salt and pepper and other ubiquitous things in the ingredients
-  list.
 
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
 
 ### Tags
 
@@ -54,7 +49,7 @@ List of special, categorical tags to use if relevant:
 - `snack`
 - `spread`
 
-If your recipe contains no meat or dairy, include the `fasting` tag.
+If your recipe contains no meat or dairy, include the `vegan` tag.
 If it includes dairy but no milk, incude the `cheesefare` tag.
 
 ### Images
